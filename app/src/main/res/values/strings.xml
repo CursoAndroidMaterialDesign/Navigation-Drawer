@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="menu_emails_enviados">Emails Enviados</string>
+    <string name="submenu_outros">Outros</string>
+    <string name="menu_lixeira">Lixeira</string>
+    <string name="menu_spam">Spam</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
